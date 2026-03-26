@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "Sala Principal",
+        "ip": "10.10.2.130",
+        "action": "sec_box",
+        "parameters": "id=65793, reason=3"
+    },
+    {
+        "nome": "Sala Ayla",
+        "ip": "10.10.2.114",
+        "action": "sec_box",
+        "parameters": "id=65793, reason=3"
+    }
+]
